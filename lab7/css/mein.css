@@ -1,0 +1,25 @@
+body {
+    color: white;
+    background-color: #000;
+}
+
+a {
+    color: greenyellow;
+    text-decoration: none;
+ 
+
+}
+/*img {
+    width: 100%;
+} */
+
+
+
+a:hover {
+    color: white;
+    text-decoration: overline;
+}
+
+.bigimg {
+    width: 1000px;
+}
