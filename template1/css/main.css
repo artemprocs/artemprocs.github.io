@@ -108,3 +108,67 @@ body,
 .zakaz h2 {
   margin: 100px auto 30px auto;
 }
+
+.zakaz img {
+  margin: 60px auto;
+  width: 40%;
+  height: 12px;
+}
+
+.zakaz form {
+  font-family: Verdana;
+}
+
+.zakaz form p {
+  font-family: Verdana;
+  margin-bottom: 40px;
+}
+
+.zakaz form input {
+  height: 56px;
+  border-radius: 28px;
+  border: 1px solid #ccc;
+  margin: 10px;
+}
+
+.zakaz form input:focus {
+  outline: none;
+  border-color: #ffaf02;
+}
+
+.zakaz form .zsubmit {
+  background-color: #ffaf02;
+  text-transform: uppercase;
+
+  color: #fff;
+  font-size: 12px;
+  font-weight: normal;
+}
+
+.zakaz .zmobil {
+  width: 30px;
+  height: 30px;
+}
+
+.zakaz .meClass {
+  font-family: Verdana;
+  font-weight: normal;
+}
+
+.zakaz .zname {
+  background-image: url("../img/avatar.png");
+  background-repeat: no-repeat;
+  background-position: 20px 20px;
+  padding-left: 50px;
+}
+
+.zakaz .ztel {
+  background-image: url("../img/telephone.png");
+  background-repeat: no-repeat;
+  background-position: 20px 20px;
+  padding-left: 50px;
+}
+
+.zakaz .zsubmit {
+  padding: 0 40px;
+}
