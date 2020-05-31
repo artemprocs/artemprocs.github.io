@@ -172,3 +172,42 @@ body,
 .zakaz .zsubmit {
   padding: 0 40px;
 }
+
+/* --------------------------------- voucher camp */
+
+.voucherCamp {
+  text-align: center;
+}
+
+.voucherCamp h2 {
+  margin-top: 100px;
+  font-size: 30px;
+}
+
+.voucherCamp .pCatalog {
+  margin-top: 30px;
+  font-weight: normal;
+  font-family: Verdana;
+  font-size: 22px;
+}
+
+.voucherCamp .itemTab {
+  height: 78px;
+  background-color: #d8f0f0;
+}
+
+.voucherCamp .nav-tabs .nav-link.active {
+  background-color: #ffaf02 !important;
+  outline: none;
+}
+
+.voucherCamp .nav-tabs .nav-link {
+  margin-right: 30px;
+  border-radius: 23px 23px 0 0;
+  outline: none;
+}
+
+.voucherCamp .nav-tabs {
+  border-bottom: 5px solid #ffaf02;
+  outline: none;
+}
